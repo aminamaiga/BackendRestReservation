@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\APIReservationHotel\\APIReservationHotel.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\restautrequestion\\BackendRestReservation\\APIReservationHotel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\APIReservationHotel\\APIReservationHotel.csproj": {
+    "C:\\Users\\HP\\source\\repos\\restautrequestion\\BackendRestReservation\\APIReservationHotel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\APIReservationHotel\\APIReservationHotel.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\restautrequestion\\BackendRestReservation\\APIReservationHotel.csproj",
         "projectName": "APIReservationHotel",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\APIReservationHotel\\APIReservationHotel.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\restautrequestion\\BackendRestReservation\\APIReservationHotel.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\APIReservationHotel\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\restautrequestion\\BackendRestReservation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,12 +59,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -73,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
